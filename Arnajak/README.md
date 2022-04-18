@@ -1,6 +1,6 @@
 # NLP_Project
 
-https://drive.google.com/drive/folders/1YoR2MlSFX9kiVnTf4JIOnqI87rGezxuQ?usp=sharing
+https://drive.google.com/drive/folders/1YoR2MlSFX9kiVnTf4JIOnqI87rGezxuQ?usp=sharing 
 This link include preprecessing, dataset and pre-train weight. 
 Mostly I follow original paper https://github.com/clarkkev/attention-analysis. 
 However, I match this to Intent data (Hwu64).
