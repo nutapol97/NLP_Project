@@ -1,4 +1,4 @@
-#Understanding "What Does BERT Look At? An Analysis of BERT’s Attention” in intent dataset"
+# Understanding "What Does BERT Look At? An Analysis of BERT’s Attention” in intent dataset"
 
 Explore the BERT head's behavior under a variety of conditions for a deeper understanding.
 
